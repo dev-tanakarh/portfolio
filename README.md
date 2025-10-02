@@ -36,7 +36,6 @@ The site is fully responsive and mobile-friendly:
 - 📁 *Projects* section with interactive cards linking to GitHub repos
 - 📄 *Resume* section with download/view option
 - 📬 *Contact Form* for direct communication
-- 🔗 Footer with GitHub and email links
 
 ---
 
